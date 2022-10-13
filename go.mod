@@ -1,4 +1,4 @@
-module dummytest
+module test-jsoniter
 
 go 1.19
 
