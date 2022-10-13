@@ -1,4 +1,4 @@
-module test-jsoniter
+module github.com/H-b-IO-T-O-H/test-jsoniter
 
 go 1.19
 
